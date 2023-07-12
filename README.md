@@ -113,3 +113,7 @@ Secure the MaxTemp sensor and T9602 within the solar radiation shield. *Note tha
 * Record its location, as well as the date and time.
 * Turn on the data logger and check that it is recording.
 * Wish it good fortune and walk away.
+
+![Partial installation of an ablation stake, Perito Moreno, February 2020](DSC_2428.JPG)
+
+*Single-mast (not recommended) ablation stake installed in Glaciar Perito Moreno, Argentina. Temperature and relative-humidity sensors have not yet been placed inside the solar-radiation shield. Photo: Andrew Wickert. Pictured: Guillermo Tamburini Beliveau.*
