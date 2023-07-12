@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/665480300.svg)](https://zenodo.org/badge/latestdoi/665480300)
+
 # How to build an automated ablation stake
 
 ## Reference
