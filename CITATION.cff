@@ -9,4 +9,15 @@ version: 0.0.0
 doi: 10.5281/zenodo.8138911
 date-released: 2023-07-12
 url: "https://github.com/MNiMORPH/how-to-build-an-automated-ablation-stake"
-type: asdf
+type: manual
+preferred-citation:
+  type: manual
+  authors:
+  - family-names: "Wickert"
+    given-names: "Andrew D."
+    orcid: "https://orcid.org/0000-0002-9545-3365"
+  title: "How to build an automated ablation stake: version 0.0.0"
+  year: 2023
+  month: 7
+  day: 12
+  doi: 10.5281/zenodo.8138911
