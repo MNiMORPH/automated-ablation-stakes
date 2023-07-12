@@ -86,6 +86,52 @@ Follow the instructions at https://northernwidget.com/tutorial/ to set up the da
   * SIG to Rx
 * Tighten this cable gland when ready.
 
+### Code
+
+This *untested* code is based off of what was used for the Perito Moreno deployments: https://github.com/MNiMORPH/Perito-Moreno-ablation-stakes.
+
+All required firmware libraries are aggregated here: https://github.com/NorthernWidget/NorthernWidget-libraries, and should be already installed via the step to follow the tutorial.
+
+```c++
+#include "Margay.h"
+#include <Maxbotix.h>
+#include <T9602.h>
+
+Margay Logger;
+Maxbotix Range; // Hard-coded for RX1
+T9602 TRH; //Initialize T9602 Humidity sensor
+
+String header = ""; //Information header
+
+//0x28: T9602 (T, RH)
+uint8_t I2CVals[] = {0x28};
+unsigned long updateRate = 300; //Number of seconds between readings 
+
+void setup() {
+        header = TRH.getHeader() + \
+                 Range.getHeader();
+                 
+        Logger.begin(I2CVals, sizeof(I2CVals), header); // Pass header info 
+                                                        // to logger
+        init();
+}
+
+void loop() {
+        init(); //Ensure devices are intialized after power cycle 
+        Logger.Run(update, updateRate);
+}
+
+String update() {
+        return TRH.GetString() + Range.GetString();
+}
+
+void init()
+{
+        Range.begin();
+        TRH.begin();
+}
+```
+
 ## Solar-radiation shield
 
 Secure the MaxTemp sensor and T9602 within the solar radiation shield. *Note that you may want to do this after arriving in the field to make transport easier.*
