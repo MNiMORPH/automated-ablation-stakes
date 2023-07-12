@@ -9,4 +9,4 @@ version: 0.0.0
 doi: 10.5281/zenodo.8138911
 date-released: 2023-07-12
 url: "https://github.com/MNiMORPH/how-to-build-an-automated-ablation-stake"
-type: pamphlet
+type: asdf
