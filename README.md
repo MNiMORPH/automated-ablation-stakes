@@ -58,6 +58,35 @@ Approximately clockwise from bottom left:
 * Thread both cables through the second 90-degree conduit elbow.
 * Attach this elbow to the rest of the assembly using the other side of the compression connector.
 
+## Temperature and relative-humidity sensor (T9602)
+
+* Clip the header off of the end of the cable.
+* Strip and tin the wires
+
+## Data logger
+
+### Logger setup
+
+Follow the instructions at https://northernwidget.com/tutorial/ to set up the data logger; do not forget the SD card or the coin-cell battery for the clock.
+
+### Enclosure
+
+* Obtain a waterproof enclosure and two cable glands.
+* Drill and clean the enclosure and attach the cable glands.
+* Mount the data logger and its battery pack into the enclosure.
+
+### Wiring
+
+* Wire the battery pack (in OFF position) to the data logger.
+* Thread the T9602 cable through one cable gland, and attach it into the screw terminals for the I2C interface as indicated here: https://github.com/NorthernWidget/T9602_Library
+* Tighten this cable gland when ready.
+* Thread the MaxBotix ultrasonic rangefinder 4-conductor cable through the other cable gland.
+* Connect as follows from the MaxBotix Helper to the Margay data logger on the same side as that to which the T9602 is attached:
+  * GND to GND
+  * V+ to 3V3
+  * SIG to Rx
+* Tighten this cable gland when ready.
+
 ## Borehole and installation
 
 Use Kovacs ice augers to drill one or more ~5 cm holes in the glacier surface to an appropriate depth for your ablation-station mast and any supporting structure(s).
