@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this data set as below or via the submitted paper (noted in the README)."
+authors:
+- family-names: "Wickert"
+  given-names: "Andrew D."
+  orcid: "https://orcid.org/0000-0002-9545-3365"
+title: "How to build an automated ablation stake"
+version: 0.0.0
+date-released: 2023-07-12
+url: "https://github.com/MNiMORPH/how-to-build-an-automated-ablation-stake"
+type: manual
