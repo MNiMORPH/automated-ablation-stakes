@@ -74,6 +74,7 @@ Follow the instructions at https://northernwidget.com/tutorial/ to set up the da
 * Obtain a waterproof enclosure and two cable glands.
 * Drill and clean the enclosure and attach the cable glands.
 * Mount the data logger and its battery pack into the enclosure.
+* When finished with all steps, ideally place desiccant packs into the enclosure and close it to seal it, ensuring that the cable glands are also sealed.
 
 ### Wiring
 
@@ -87,6 +88,28 @@ Follow the instructions at https://northernwidget.com/tutorial/ to set up the da
   * SIG to Rx
 * Tighten this cable gland when ready.
 
+## Solar-radiation shield
+
+Secure the MaxTemp sensor and T9602 within the solar radiation shield. *Note that you may want to do this after arriving in the field to make transport easier.*
+
+## Main mast assembly
+
+*Depending on logistics, consider which components of this work should be performed before or after going to the field.*
+
+* Prepare one piece of straight rigid material, or ideally, a structure including a main mast and support pieces to prevent tilting or rotation.
+* Using two hose clamps, attach the ultrasonic rangefinder inverted-U assembly to the main mast.
+* Using the other two hose clamps (or another fastening method of your choice), attach the waterproof data-logger enclosure to the main mast.
+* Above the ultrasonic rangefinder, attach the solar-radiation shield to the main mast.
+* Ensure that cables are not tangled or wrapped inconveniently.
+* Check that the system is working.
+* Secure cables with cable ties.
+
 ## Borehole and installation
 
-Use Kovacs ice augers to drill one or more ~5 cm holes in the glacier surface to an appropriate depth for your ablation-station mast and any supporting structure(s).
+* Use Kovacs ice augers to drill one or more ~5 cm holes in the glacier surface to an appropriate depth for your ablation-station mast and any supporting structure(s).
+* Place the ablation stake into the hole(s).
+* Seat and secure any remaining sensors.
+* Photograph the stake.
+* Record its location, as well as the date and time.
+* Turn on the data logger and check that it is recording.
+* Wish it good fortune and walk away.
