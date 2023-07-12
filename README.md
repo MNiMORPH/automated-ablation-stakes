@@ -8,10 +8,7 @@
 
 Please cite this when referring to this guide in particular.
 
-**Wickert, A. D.
-(2023)
-*How to build an automated ablation stake*
-[Manual].**
+**Wickert, A. D. (2023). How to build an automated ablation stake: Version 0.0.0. https://doi.org/10.5281/zenodo.8138911**
 
 ### The associated article
 
