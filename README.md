@@ -118,12 +118,18 @@ Secure the MaxTemp sensor and T9602 within the solar radiation shield. *Note tha
 
 ### Partial installation
 
-![Partial installation of an ablation stake, Perito Moreno, February 2020](DSC_2428.JPG)
+![Partial installation of an ablation stake, Perito Moreno, February 2020.](DSC_2428.JPG)
 
-*Single-mast (not recommended) ablation stake installed in Glaciar Perito Moreno, Argentina; February, 2020. Temperature and relative-humidity sensors have not yet been placed inside the solar-radiation shield. Photo: Andrew Wickert. Pictured: Guillermo Tamburini Beliveau.*
+*Single-mast (not recommended) ablation stake installed in Glaciar Perito Moreno, Argentina; February, 2020. Temperature and relative-humidity sensors have not yet been placed inside the solar-radiation shield. Photo: Andy Wickert. Pictured: Guillermo Tamburini Beliveau.*
 
 ### Completed installation
 
 ![Installed ablation stake, Perito Moreno, February 2020.](DSC_2418.JPG)
 
-*Fully installed ablation stake. Photo: Andrew Wickert. Pictured: Guillermo Tamburini Beliveau. Guillermo is carrying sections of plastic pipe that we cut apart for transport and then reconnected in the field. Kovacs ice augers lie next to the installed station.*
+*Fully installed ablation stake. Photo: Andy Wickert. Pictured: Guillermo Tamburini Beliveau. Guillermo is carrying sections of plastic pipe that we cut apart for transport and then reconnected in the field. Kovacs ice augers lie next to the installed station.*
+
+### Removal
+
+![Removal of the main mast of the ablatin stake, Perito Moreno, March 2020.](DSC_0045.JPG)
+
+*Max van Wyk de Vries carries the main mast of the ablation stake for retrieval while Mati Romero looks on. The sensor package is already packed in a backpack. Photo: Andy Wickert.*
