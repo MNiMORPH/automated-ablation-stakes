@@ -30,17 +30,12 @@ Approximately clockwise from bottom left:
 * 4-conductor cable (3-conductor also works, but is not as often sold)
 * Telaire T9602 temperature and relative-humidity sensor
 * Solar radiation shield
-* NotPictured MaxBotix MaxTemp temperature correction; mounting gasket and nut for the ultrasonic rangefinder.
+* Not pictured:
+  * MaxBotix MaxTemp temperature correction
+  * Mounting gasket and nut for the ultrasonic rangefinder
+  * Pole for main mast and/or support: Use one or more thick (e.g., Schedule-80) pieces of plastic pipe or other rigid material as the main mast and/or supporting structure. A single main mast may spin, so additional support is recommended. 
 
 *Detailed parts list with suppliers is available in the cited paper*
-
-## Borehole (not pictured)
-
-Use Kovacs ice augers to drill one or more ~5 cm holes in the glacier surface to an appropriate depth for your ablation-station mast and any supporting structure(s).
-
-## Pole (not pictured)
-
-Use one or more thick (e.g., Schedule-80) pieces of plastic pipe or other rigid material as the main mast and/or supporting structure. A single main mast may spin, so additional support is recommended.
 
 ## Rangefinder
 
@@ -62,3 +57,7 @@ Use one or more thick (e.g., Schedule-80) pieces of plastic pipe or other rigid 
 * Attach the conduit compression connector to the other end of the elbow, around the cables.
 * Thread both cables through the second 90-degree conduit elbow.
 * Attach this elbow to the rest of the assembly using the other side of the compression connector.
+
+## Borehole and installation
+
+Use Kovacs ice augers to drill one or more ~5 cm holes in the glacier surface to an appropriate depth for your ablation-station mast and any supporting structure(s).
