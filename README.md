@@ -2,6 +2,19 @@
 
 ## Reference
 
+### This manual
+
+Please cite this when referring to this guide in particular.
+
+**Wickert, A. D.
+(2023)
+*How to build an automated ablation stake*
+[Manual].**
+
+### The associated article
+
+Please cite this whenever using or referring to these ablation stakes:
+
 **Wickert, A. D., K. R. Barnhart, W. H. Armstrong M. Romero, B. Schulz C. T. Sandell, S. B.
 Penprase, M. Van Wyk de Vries, G. H. C. Ng, J. La Frenierre, and K. R. MacGregor
 (in revision, 2023),
