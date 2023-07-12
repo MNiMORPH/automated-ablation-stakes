@@ -1,6 +1,4 @@
-# automated-ablation-stakes
-
-Design and assembly of a standard automated ablation stake.
+# How to build an automated ablation stake
 
 ## Reference
 
